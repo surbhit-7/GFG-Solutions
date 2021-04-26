@@ -1,4 +1,32 @@
 //Difficulty - Medium
+/* PROBLEM STATEMENT :-
+Given an array arr[] of N positive integers and a number K. The task is to find the kth largest element in the array.
+
+Example 1:
+
+Input:
+N = 5, K = 3
+arr[] = {3, 5, 4, 2, 9}
+Output: 
+4
+Explanation: 
+Third largest element
+in the array is 4.
+
+Example 2:
+
+Input:
+N = 5, K = 5
+arr[] = {4, 3, 7, 6, 5} 
+Output: 
+3
+Explanation: 
+Fifth largest element
+in the array is 3.
+*/
+
+
+
 //Solution
 #include <bits/stdc++.h>
 using namespace std;
